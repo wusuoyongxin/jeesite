@@ -14,3 +14,5 @@
 /src/main/webapp/WEB-INF/classes/*
 /src/main/webapp/userfiles/*
 /target/
+doc/maven/repository/.cache/m2e/1.0.100/d9d714e11cb097b3ffcec91cccc65d3e/.lock
+*.jar
